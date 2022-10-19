@@ -1,3 +1,4 @@
+import { Fragment } from 'react';
 import NavBar from "./components/NavBar";
 import ItemlistContainer from './components/ItemlistContainer';
 import './App.css';
@@ -5,10 +6,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App">
+    <Fragment>
       <NavBar/>
-      <ItemlistContainer msg="Bienvenido a mi Landing Page"/>
-    </div>
+      <ItemlistContainer msg="Bienvenido a mi pagina de compra y ventas de VideoJuegos"/>
+    </Fragment>
   );
 }
 

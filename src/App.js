@@ -8,7 +8,7 @@ function App() {
   return (
     <Fragment>
       <NavBar/>
-      <ItemlistContainer msg="Bienvenido a mi pagina de compra y ventas de VideoJuegos"/>
+      <ItemlistContainer/>
     </Fragment>
   );
 }

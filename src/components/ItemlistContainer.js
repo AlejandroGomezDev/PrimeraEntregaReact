@@ -5,8 +5,9 @@ import React, { Fragment } from 'react'
 
     <Fragment>
 
-      <span className=' md:flex md:justify-center md:my-40'>
+      <span className='md:flex md:justify-center md:my-40'>
         <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+        BIENVENIDO A MI TIENDA DE JUEGOS RETRO
       </span>
 
     </Fragment>
